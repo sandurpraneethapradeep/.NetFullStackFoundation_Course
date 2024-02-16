@@ -1,2 +1,2 @@
-# .NetFullStackFoundation_Course
-.Net Full Stack Foundation Course (Coursera)
+# .Net Full Stack Foundation Course
+
