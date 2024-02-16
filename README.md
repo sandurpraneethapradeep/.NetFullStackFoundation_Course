@@ -1,7 +1,6 @@
 # .Net Full Stack Foundation Course
 
 .Net Core
-
 - An open source, that is cross platform running on various platforms.
 - A subset of the larger .NET Framework.
 - Introduced by Microsoft in 2016 and a successor to the .Net Framework.
@@ -10,7 +9,6 @@
 
 
 Why .NET Core ?
-
 - Cross Platform
 - Performance
 - Designed to work well in cloud environments.
