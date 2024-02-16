@@ -44,3 +44,9 @@ Why .NET Core ?
 - Set of framework libraries - CoreFX
 - A JIT based CLR - CoreCLR
 - CoreCLR is the .Net runtime used in .Net Core.
+
+
+
+C# Programming
+
+
