@@ -18,14 +18,4 @@ Why .NET Core ?
 - Felxible deployment
 
 
-
-
-
-
-
-
-
-
-Course 2 :  C# Programming
-
-Course 3 :  Advanced C# Programming
+<img width="619" alt="Screenshot 2024-02-15 at 10 25 34 PM" src="https://github.com/sandurpraneethapradeep/.NetFullStackFoundation_Course/assets/124273065/04834c85-afba-403c-b889-fd5d1e44efaa">
