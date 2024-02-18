@@ -48,5 +48,65 @@ Why .NET Core ?
 
 
 C# Programming
+- OOP developed by microsoft
+- runs on .Net framework
+- Designed for CLI
+- Huge community support
+- Used to develop applications mainly modern applications
+- Simple
+- Type safe, type support
+- Interperability
+- Rich library
+- Modern programming language
+
+C# Code execution
+- The source code is in C# programming language
+- C# compiler checks for errors
+- Then passes it to CLI or IL code
+- Then JIT and CLR comes into play to converted to machine code
+- In .exe or .dll files
+
+Variables in C#
+- A named storage location in computer memory
+- Used to store and manipulate data in a program
+- All much be declared before used
+- Value stored can be changed during the program execution
+- Syntax : datatype variable_name = value;
+
+Operators in C#
+- Are symbols that are used to perform operations on operands
+- May be variables or constants
+- Used to manipulate variables and values in a program
+- Need to enter F in the postfix when declaring float.
+
+
+<img width="610" alt="Screenshot 2024-02-17 at 1 28 58 PM" src="https://github.com/sandurpraneethapradeep/.NetFullStackFoundation_Course/assets/124273065/9ae0a6ae-c51c-48fe-8536-8438bc3e30ee">
+
+Conditional statements in C#
+- If
+- IF else IF
+- Switch case
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
