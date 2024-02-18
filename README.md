@@ -87,6 +87,20 @@ Conditional statements in C#
 - IF else IF
 - Switch case
 
+Loop statments in C#
+- For loop
+- While loop
+- for each loop
+- Do while loo[
+
+Jump statments in C#
+- Are keywords that allows you to control the flow of the execution in a program
+- Helps to terminate the loop - break
+- Continue helps to skip the execution
+- Goto to transfer the control to the label statment in the program
+- Return terminates the execution
+- Throw usued to create exceptions
+
 
 
 
