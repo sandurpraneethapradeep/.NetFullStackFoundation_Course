@@ -101,7 +101,38 @@ Jump statments in C#
 - Return terminates the execution
 - Throw usued to create exceptions
 
+Arrays in C#
+- A collection of elements of same data type that are stored in contiguous memory locations.
+- Each element in an array is identified by its index or position within the array, starting from 0.
+- Arrays are declared using square brackets "[]" after the type name byt the array name.
+- For example:
 
+int[] arrayname = new int[5];
+- arrays help in code optimization
+- Random access
+- easy to tranverse data
+- easy to manipulate data
+  
+1. One dimentional array -
+   Simplest type of array that contains only one row for storing data
+   single set of square bracket ("[]")
+   Example-
+   int[] age;
+   age = new int[5];
+2. Mulitdimentional array -
+   Needs more than one row to store data
+   Also called rectangular array because it has the same length of each row.
+   2-D or 3-D array or more.
+   Example-
+   int[,] s = new int[3,3];
+3. Jagged array -
+   an array of arrays
+   store collection of arrays of different sizes
+   
+
+   
+
+   
 
 
 
