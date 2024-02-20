@@ -128,7 +128,15 @@ int[] arrayname = new int[5];
 3. Jagged array -
    an array of arrays
    store collection of arrays of different sizes
-   
+
+Strings in C#
+- String is an object of System.String class that represent sequence of characters
+- string is a keyword.
+  Example-
+  string s1 = "hello"; // creating string using string keyword
+  String s2 = "welcome"; //creating string using String class
+- Immutable string is creating new memory always. Not Modifiable.
+- Mutable string, we are using the same memory. Modifiable
 
    
 
