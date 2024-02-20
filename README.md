@@ -138,7 +138,10 @@ Strings in C#
 - Immutable string is creating new memory always. Not Modifiable.
 - Mutable string, we are using the same memory. Modifiable
 
-   
+Object oriented programming in C#
+- C# is an object oriented programming lanaguage.
+- Has 6 features like C++
+- 
 
    
 
