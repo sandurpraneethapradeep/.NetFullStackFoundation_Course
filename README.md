@@ -141,7 +141,48 @@ Strings in C#
 Object oriented programming in C#
 - C# is an object oriented programming lanaguage.
 - Has 6 features like C++
-- 
+
+Classes and Objects in C#
+- A class is a blueprint or a template for creating objects
+- It defines the properties and behavious of an object
+- A class can have fields, properties, methods and events.
+- Syntax :
+  AccessSpecifier class Name_of_class
+  {
+  //member variables
+  //member functions
+  }
+- Object is a dynamically created instance of the class.
+- It is created at runtime so it can be a runtime entity.
+
+Encapsulation
+- Wrapping up of data under a single unit
+- Binds code together and the data it manipulates
+- Protective shield that prevents code being accessed by this outside.
+- Can be acheived by declaring all variables in the class as private.
+
+Abstraction
+- Only essentail details are exhibited
+- Acheived using either abstract class or interface
+- Abstract class - a restricted class that cannot be used to create objects(to access it, it must be inherited from another class)
+- Abstract methods - can be only used in an abstract class, and it does not have a body.
+  The body is provided by the derived class (inherited from)
+- Acess modifiers - keywords that specify accessibility or scope of variables.
+  public, private, protected, internal
+
+Constrctors
+- used to initalize an objec of a class
+- has same class name
+- does not have return type
+- Default, copy etc
+
+Inheritance
+- Inherit fields and methods from one class to another
+- new class based on existing class
+- Single inheritance - derived class from base class
+- Hierarchial inheritance - B inherits from A and in tuurn C inherits from A
+- Multilevel inheritance
+  
 
    
 
