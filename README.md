@@ -183,7 +183,16 @@ Inheritance
 - Hierarchial inheritance - B inherits from A and in tuurn C inherits from A
 - Multilevel inheritance
   
-
+Ploymorphism
+- Multiple forms of shape
+- Parent class and child class
+- Compile time polymorphism / static polymorphism - compiler identifies which method is called at compile time. Method overiding / overloading.
+- Method overloading- same name in class, different number of parameters, types of parameter.
+- In C# we can overload method, constructurs and indexed properties
+-  Runtime polymorphism / Dynamic polymorphism
+-  Method overiding - same method as defined in its base class.
+-  Method overiding is used to achieve runtime polymorphism.
+-  
    
 
 
