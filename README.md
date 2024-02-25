@@ -192,7 +192,27 @@ Ploymorphism
 -  Runtime polymorphism / Dynamic polymorphism
 -  Method overiding - same method as defined in its base class.
 -  Method overiding is used to achieve runtime polymorphism.
--  
+
+Abstract class
+- A class that cannot be instantiated
+- Serves as a base class for other classes to be inherited from.
+
+Abstract method
+- A method that does not have a body is known as an abstract method.
+- The abstract keyword is used to indicate that a method is abstract.
+- An abstract method is a method that is declared but not defined in a base class and its implementation is left to the deriver classes.
+- An abstract method must be declared in an abstract method.
+
+Interface
+- Simlar to abstract class
+- unimplemented class
+- Specofoes what a class must do and not how
+- Can't have private members
+- By default are public and abstract
+- a class can inherhit only one class at a time
+- but can inherit multiple interfaces
+
+
    
 
 
