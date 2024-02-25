@@ -212,7 +212,13 @@ Interface
 - a class can inherhit only one class at a time
 - but can inherit multiple interfaces
 
-
+Static class
+- Cannot be instantated
+- Cannot create an object of a static class
+- Cannot access static members using an object
+- C# static cannot contain instance constructors
+- Static keyoword is used before the class keyword in a class definition to declare a static class.
+- Static class members are accessed by the class name followed by the member name.
    
 
 
